@@ -1,0 +1,48 @@
+{
+  "name": "stream-me-bot-express",
+  "version": "1.0.3",
+  "description": "Streamme bot integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "author": {
+    "name": "Jordan",
+    "email": "jordan@stream.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StreamMeBots/stream-me-bot-express.git"
+  },
+  "dependencies": {
+    "lodash": "~3.9.3",
+    "mocha": "~2.2.5",
+    "request": "~2.57.0"
+  },
+  "gitHead": "82c94e0f82a66a1508a0603b698596d0dc1a7e27",
+  "bugs": {
+    "url": "https://github.com/StreamMeBots/stream-me-bot-express/issues"
+  },
+  "homepage": "https://github.com/StreamMeBots/stream-me-bot-express#readme",
+  "_id": "stream-me-bot-express@1.0.3",
+  "_shasum": "b1ea8ee4c0b74f850fe9a3be0104a60d0ef04e1a",
+  "_from": "stream-me-bot-express@",
+  "_npmVersion": "2.9.0",
+  "_nodeVersion": "2.0.1",
+  "_npmUser": {
+    "name": "foboar",
+    "email": "jordan@stream.me"
+  },
+  "dist": {
+    "shasum": "b1ea8ee4c0b74f850fe9a3be0104a60d0ef04e1a",
+    "tarball": "http://registry.npmjs.org/stream-me-bot-express/-/stream-me-bot-express-1.0.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "foboar",
+      "email": "jordan@stream.me"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/stream-me-bot-express/-/stream-me-bot-express-1.0.3.tgz"
+}
